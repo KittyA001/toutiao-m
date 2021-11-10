@@ -1,6 +1,6 @@
 <template>
     <div>
-        <p>黑马头条</p>
+      <router-view></router-view>
     </div>
 </template>
 
@@ -11,4 +11,5 @@ export default {
 </script>
 
 <style lang="less">
+
 </style>
